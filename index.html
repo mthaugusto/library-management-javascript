@@ -37,19 +37,21 @@
             <button class="btn btn-success" type="submit" id="addBtn">Add Book</button>
             <button class="btn btn-warning ml-2" type="button" id="clearBtn">Clear All</button>
         </form>
-        <table class="table mt-4" id="bookTable">
-            <thead>
-                <tr>
-                    <th>Title</th>
-                    <th>Author</th>
-                    <th>Genre</th>
-                    <th>Year</th>
-                    <th>Quantity</th>
-                    <th>Action</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        </table>
+        <div class="table-container mt-4" id="bookTableContainer">
+            <table class="table mt-4" id="bookTable">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Genre</th>
+                        <th>Year</th>
+                        <th>Quantity</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
     </div>
     <div class="modal fade" id="editModal">
         <div class="modal-dialog">
@@ -94,7 +96,7 @@
         </div>
 
     </div>
-    <footer class="text-center mt-5 fixed-bottom p-3">
+    <footer class="text-center mt-5 p-3 footer-fixed">
         2023-2024 Matheus Leite
     </footer>
 

@@ -7,10 +7,19 @@ body {
     color: #fff;
 }
 
+#bookTableContainer {
+    margin-bottom: 60px;
+}
+
 .modal {
     color: black;
 }
 
-footer {
+.footer-fixed {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     background-color: #1b3c4291;
+    color: white;
 }
