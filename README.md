@@ -29,4 +29,6 @@ This is a simple library management system built using HTML, CSS, JavaScript, jQ
 ## Contributions
 
 Contributions are welcome! If you find bugs or want to add new features, feel free to open an issue or submit a pull request.
-](https://github.com/mthaugusto/library-management-javascript/blob/main/ScreenCapture.png?raw=true)https://github.com/mthaugusto/library-management-javascript/blob/main/ScreenCapture.png?raw=true
+
+
+![Library Management System Screenshot](https://github.com/mthaugusto/library-management-javascript/blob/main/ScreenCapture.png?raw=true)
